@@ -1,0 +1,19 @@
+.main-footer {
+    color: white;
+    background-color: #115594;
+    padding-top: 3em;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+    margin-top: 40px;
+      
+   }
+
+   .p{
+     color : white ; 
+     text-align: center;
+   }
+   
+   .blan {
+     color: white;
+    }

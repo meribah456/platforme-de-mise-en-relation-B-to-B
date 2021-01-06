@@ -1,0 +1,10 @@
+/* Add a card effect for articles */
+.card {
+    background-color: white;
+    margin-top: 20px; 
+   }
+  
+  img {
+      max-width: 100%;
+      height: auto;
+    }
